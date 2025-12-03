@@ -1,4 +1,4 @@
-# ☕ Java Programming Concepts – Complete Study Guide  
+﻿# ☕ Java Programming Concepts – Complete Study Guide  
 
 > 📘 Learn Java step by step with practical tasks, clear outcomes, and future learning goals.  
 
@@ -356,6 +356,7 @@ After completing all topics, you will:
 
 ---
 
-👨‍💻 *Created by Prasant Kumar*  
+👨‍💻 *Created Narendra Singh*  
 📅 *Add your learning dates here*  
 📂 *Use this guide to track your Java learning journey!*
+
