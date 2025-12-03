@@ -356,7 +356,7 @@ After completing all topics, you will:
 
 ---
 
-👨‍💻 *Created Narendra Singh*  
+👨‍💻 *Created by Narendra Singh*  
 📅 *Add your learning dates here*  
 📂 *Use this guide to track your Java learning journey!*
 
